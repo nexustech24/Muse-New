@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "dgSpecHash": "xaCZAwKRkxSv1yDFMdAcl8XTqNUJwPNbEKKPSKghpTaOG9hbVVqVXyI7Wq2RhbBDD69QaYGS5HYxG4mFaVoKqg==",
+  "success": true,
+  "projectFilePath": "D:\\Source\\Repos\\SharpBrowser\\src\\SharpBrowser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arman\\.nuget\\packages\\cef.redist.x64\\106.0.26\\cef.redist.x64.106.0.26.nupkg.sha512",
+    "C:\\Users\\Arman\\.nuget\\packages\\cef.redist.x86\\106.0.26\\cef.redist.x86.106.0.26.nupkg.sha512",
+    "C:\\Users\\Arman\\.nuget\\packages\\cefsharp.common\\106.0.260\\cefsharp.common.106.0.260.nupkg.sha512",
+    "C:\\Users\\Arman\\.nuget\\packages\\cefsharp.common.netcore\\106.0.260\\cefsharp.common.netcore.106.0.260.nupkg.sha512",
+    "C:\\Users\\Arman\\.nuget\\packages\\cefsharp.winforms.netcore\\106.0.260\\cefsharp.winforms.netcore.106.0.260.nupkg.sha512",
+    "C:\\Users\\Arman\\.nuget\\packages\\chromiumembeddedframework.runtime\\106.0.26\\chromiumembeddedframework.runtime.106.0.26.nupkg.sha512",
+    "C:\\Users\\Arman\\.nuget\\packages\\chromiumembeddedframework.runtime.win-arm64\\106.0.26\\chromiumembeddedframework.runtime.win-arm64.106.0.26.nupkg.sha512",
+    "C:\\Users\\Arman\\.nuget\\packages\\chromiumembeddedframework.runtime.win-x64\\106.0.26\\chromiumembeddedframework.runtime.win-x64.106.0.26.nupkg.sha512",
+    "C:\\Users\\Arman\\.nuget\\packages\\chromiumembeddedframework.runtime.win-x86\\106.0.26\\chromiumembeddedframework.runtime.win-x86.106.0.26.nupkg.sha512",
+    "C:\\Users\\Arman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Arman\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Arman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Arman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Das Paket \"CefSharp.Common\" 106.0.260 weist eine bekannte hoch Schweregrad-Sicherheitsanfälligkeit auf, https://github.com/advisories/GHSA-4c29-gfrp-g6x9.",
+      "libraryId": "CefSharp.Common",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1904",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Das Paket \"CefSharp.Common\" 106.0.260 weist eine bekannte kritisch Schweregrad-Sicherheitsanfälligkeit auf, https://github.com/advisories/GHSA-j646-gj5p-p45g.",
+      "libraryId": "CefSharp.Common",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Das Paket \"CefSharp.Common.NETCore\" 106.0.260 weist eine bekannte hoch Schweregrad-Sicherheitsanfälligkeit auf, https://github.com/advisories/GHSA-4c29-gfrp-g6x9.",
+      "libraryId": "CefSharp.Common.NETCore",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1904",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Das Paket \"CefSharp.Common.NETCore\" 106.0.260 weist eine bekannte kritisch Schweregrad-Sicherheitsanfälligkeit auf, https://github.com/advisories/GHSA-j646-gj5p-p45g.",
+      "libraryId": "CefSharp.Common.NETCore",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
